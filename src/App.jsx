@@ -11,6 +11,7 @@ function App() {
         <div>
             <h1>React Pipeline Assignment</h1>
             <p>This site is being deployed automatically with GitHub Actions</p>
+            <p>This site is a second text to see if the changes are being pushed and the deploy works</p>
         </div>
   )
 }
